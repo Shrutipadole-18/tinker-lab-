@@ -63,10 +63,10 @@
 
   <section id="about" style="padding: 20px;">
     <h2>About Me</h2>
-    <p>My name is Aman Deulkar and I am learning HTML and CSS basics.</p>
+    <p>My name is Shruti Padole and I am learning HTML and CSS basics.</p>
     <p><b>College:</b> SIT Nagpur</p>
     <p><b>Branch:</b> Computer Science and Engineering</p>
-    <p><b>Hobbies:</b> Coding, Reading, and Travelling.</p>
+    <p><b>Hobbies:</b> Coding, Dancing, and Painting.</p>
   </section>
 
   <br>
